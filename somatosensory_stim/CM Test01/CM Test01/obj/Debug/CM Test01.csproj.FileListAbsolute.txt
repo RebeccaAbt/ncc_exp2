@@ -1,0 +1,15 @@
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\CMTest01.exe
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\CMTest01.pdb
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\CM.dll
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\mscorlib.dll
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\WinUSBNet.dll
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\de\mscorlib.resources.dll
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\normidna.nlp
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\normnfc.nlp
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\normnfd.nlp
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\normnfkc.nlp
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\normnfkd.nlp
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\obj\Debug\CM Test01.csprojResolveAssemblyReference.cache
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\obj\Debug\CMTest01.exe
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\obj\Debug\CMTest01.pdb
+F:\sbg\somatosensory_stim\CM Test01\CM Test01\bin\Debug\CM.pdb

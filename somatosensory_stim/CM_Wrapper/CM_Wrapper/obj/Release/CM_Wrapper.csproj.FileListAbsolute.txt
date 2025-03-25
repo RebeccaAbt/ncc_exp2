@@ -1,0 +1,7 @@
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\bin\Release\CM_Wrapper.dll
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\bin\Release\CM_Wrapper.pdb
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\bin\Release\CM.dll
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\bin\Release\WinUSBNet.dll
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\obj\Release\CM_Wrapper.csprojResolveAssemblyReference.cache
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\obj\Release\CM_Wrapper.dll
+F:\sbg\somatosensory_stim\CM_Wrapper\CM_Wrapper\obj\Release\CM_Wrapper.pdb

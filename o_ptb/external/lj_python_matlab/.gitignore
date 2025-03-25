@@ -1,0 +1,5 @@
+*.*~
+# ignore the following OS generated files
+*.DS_Store
+*.py[cod]
+*.asv

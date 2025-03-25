@@ -1,0 +1,6 @@
+F:\sbg\somatosensory_stim\decompiled_cm\CM\obj\Debug\CM.csprojResolveAssemblyReference.cache
+F:\sbg\somatosensory_stim\decompiled_cm\CM\bin\Debug\CM.dll
+F:\sbg\somatosensory_stim\decompiled_cm\CM\bin\Debug\CM.pdb
+F:\sbg\somatosensory_stim\decompiled_cm\CM\bin\Debug\WinUSBNet.dll
+F:\sbg\somatosensory_stim\decompiled_cm\CM\obj\Debug\CM.dll
+F:\sbg\somatosensory_stim\decompiled_cm\CM\obj\Debug\CM.pdb

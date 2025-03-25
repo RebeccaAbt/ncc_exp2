@@ -1,0 +1,27 @@
+	static void Main(string[] args)
+	{
+		CM5 c = new CM5();
+		c.Init(true); //true is necessary to let the device know it is magnet compatible.
+
+    Console.WriteLine("Version: " + c.Version());
+    Console.WriteLine("Powering Up...");
+
+    Thread.Sleep(5000);
+
+    Console.WriteLine("Press any key to vibrate");
+		Console.ReadKey();
+
+		QuadStimulusChain qsc = new QuadStimulusChain(); //represents a chain of stimuli to be delivered
+
+		qsc.CH1.Add(new StimulusLink(new Stimulus(400, 25, 1000))); //a stimulus is a simple cosine wave, a link is just a wrapper to be put into the CH1 'chain'
+    qsc.CH2.Add(new StimulusLink(new Stimulus(400, 25, 1000)));
+    qsc.CH3.Add(new StimulusLink(new Stimulus(400, 25, 1000)));
+    qsc.CH4.Add(new StimulusLink(new Stimulus(400, 25, 1000)));
+
+    c.ChainedVibration(qsc);//actually executes the vibration
+
+		Console.WriteLine("Vibration completed");
+		Console.WriteLine("Pressy any key to exit");
+		Console.ReadKey();
+		c.DeInit();
+	}
