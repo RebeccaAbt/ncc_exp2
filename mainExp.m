@@ -1,19 +1,9 @@
 % clear & init
-
-%% !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-% !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 %
-% Extra tactile test in INIT2!!!!!!!!
-
-% init :  CM+
-% init: Audio
-
-%%
 clear all global
 close all;
 restoredefaultpath
 commandwindow
-
 
 mainDir = 'C:\Users\Andi\Desktop\NCC_exp2\';
 % mainDir = 'C:\Users\mrsre\NCC_MRI\NCC_exp2';
@@ -101,7 +91,7 @@ base_level = ptb.trigger_status;
 params.base_level1 = base_level;
 
 if ~params.isTest
-    ptb.get_trigger(base_level, 7); % Wait for first trigger from MRI
+    ptb.get_trigger(base_level, 7); % Wait for seventh trigger from MRI
 end
 
 params.MRIstart = GetSecs;
